@@ -1,6 +1,6 @@
 # Course3-Project
-# Author: Paul Beuran (Github: PepperTiger)
-# Date: 08-30-2020
+## Author: Paul Beuran (Github: PepperTiger)
+## Date: 08-30-2020
 
 How to use :
   1. Download the project?
