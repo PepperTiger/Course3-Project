@@ -28,7 +28,7 @@ The project is subdivised as:
 
 
 ## Orignal data :
-The data used were obtained from a telemetry study with Samsung Galaxy phones from 2012.
+The data used were obtained from a telemetry study with Samsung Galaxy phones from 2012.\n
 Link: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
