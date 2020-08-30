@@ -85,3 +85,6 @@ get.mean.data <- function(total) {
 total = get.tidy.data()
 total_mean = get.mean.data(total)
 
+## Write .csv files
+write.csv(total, "output\\total.csv")
+write.csv(total_mean, "output\\total_mean.csv")
