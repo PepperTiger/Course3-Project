@@ -11,7 +11,7 @@ This repository is my submission to the programming assignement assigned in Cour
   5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
   
 The project is subdivised as:
-  - `readme.txt`: File containing an explanation of the project (identical to this one)
+  - `README.md`: File containing an explanation of the project (identical to this one)
   - `codebook.txt`: File containing the signification of each variables in `total` and `total_mean` tables, which can be found either by running a script or looking at their corresponding `.csv` files in the `Output` directory
   - Data: contains the data used for this project, the files used being :
     - `data/train|test/X_train|test.txt`: Files containing a 561 numerical values vector
