@@ -12,7 +12,7 @@ This repository is my submission to the programming assignement assigned in Cour
   
 The project is subdivised as:
   - `README.md`: File containing an explanation of the project (identical to this one)
-  - `codebook.txt`: File containing the signification of each variables in `total` and `total_mean` tables, which can be found either by running a script or looking at their corresponding `.csv` files in the `Output` directory
+  - `codebook.md`: File containing the signification of each variables in `total` and `total_mean` tables, which can be found either by running a script or looking at their corresponding `.csv` files in the `Output` directory
   - `Data`: contains the data used for this project, the files used being :
     - `data/train|test/X_train|test.txt`: Files containing a 561 numerical values vector
     - `data/train|test/Y_train|test.txt`: Files containing a series of integers representing activities.
